@@ -1,0 +1,10 @@
+"Predictor","Coefficient","OddsRatio"
+"(Intercept)",-8.6077,0
+"Pregnancies",0.1044,1.11
+"Glucose",0.0375,1.038
+"BloodPressure",-0.0107,0.989
+"SkinThickness",6e-04,1.001
+"Insulin",-8e-04,0.999
+"BMI",0.0877,1.092
+"DiabetesPedigreeFunction",0.8478,2.334
+"Age",0.0126,1.013
